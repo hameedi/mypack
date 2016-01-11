@@ -1,0 +1,21 @@
+{
+  "name": "TestBower",
+  "authors": [
+    "M.Furqan Hameedi <mhameedi@saudioger.com>"
+  ],
+  "description": "Test the bower package functionality",
+  "main": "mypack.js",
+  "moduleType": [],
+  "keywords": [
+    "mypacktest"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
